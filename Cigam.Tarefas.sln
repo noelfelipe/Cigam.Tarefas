@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cigam.Tarefas", "Cigam.Tarefas\Cigam.Tarefas.csproj", "{282DA676-E1CA-4385-AD84-5023ADDA8644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cigam.Tarefas.Application", "Cigam.Tarefas.Application\Cigam.Tarefas.Application.csproj", "{3F854C9C-D390-487A-BD0F-1049493AC814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282DA676-E1CA-4385-AD84-5023ADDA8644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282DA676-E1CA-4385-AD84-5023ADDA8644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282DA676-E1CA-4385-AD84-5023ADDA8644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282DA676-E1CA-4385-AD84-5023ADDA8644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F854C9C-D390-487A-BD0F-1049493AC814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F854C9C-D390-487A-BD0F-1049493AC814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F854C9C-D390-487A-BD0F-1049493AC814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F854C9C-D390-487A-BD0F-1049493AC814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C48158-405E-40C4-B6F9-B2EC7CE98399}
+	EndGlobalSection
+EndGlobal
